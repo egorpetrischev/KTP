@@ -39,7 +39,11 @@ public class Point3d {
     }
 
     // Check if two points are equal
-    public boolean equals(Point3d point){
+    @Override
+    public boolean equals(Object o){
+        if (this == o) return true;
+        if (getClass() != o.getClass()) return false;
+        Point3d point = (Point3d) o;
         return this.getX() == point.getX()
                 && this.getY() == point.getY()
                 && this.getZ() == point.getZ();
