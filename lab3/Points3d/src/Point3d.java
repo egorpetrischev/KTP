@@ -61,8 +61,11 @@ public class Point3d {
         y2 = point.getY();
         z2 = point.getZ();
 
-        return Math.sqrt(Math.pow((x2 - x1), 2)
+        double distance = Math.sqrt(Math.pow((x2 - x1), 2)
                 + Math.pow((y2 - y1), 2)
                 + Math.pow((z2 - z1), 2));
+
+        double result = (double) Math.round(distance * 100);
+        return result / 100;
     }
 }
