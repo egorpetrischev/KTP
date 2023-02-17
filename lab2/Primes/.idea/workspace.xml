@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5817a9d6-78ad-4a29-89bc-c6a535398d26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Primes/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Primes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Primes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Primes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Primes/Primes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Primes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Primes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/bin/Crawler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/bin/UrlDepthPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/src/Crawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/src/UrlDepthPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/webScanner/webScanner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/AStar/out/production/AStar/AStarState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/AStar/out/production/AStar/AStarState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7/Fractal3/out/production/Fractal/Tricorn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab7/Fractal3/out/production/Fractal/Tricorn.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/TFOB/Desktop/KTP/lab2/Primes/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TFOB/Desktop/KTP/lab2/Primes/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\TFOB\Desktop\KTP\lab2\Primes\src" />
